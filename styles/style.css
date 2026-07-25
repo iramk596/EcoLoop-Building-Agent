@@ -1,0 +1,73 @@
+:root {
+  --bg: #f4f7fb;
+  --card: #ffffff;
+  --primary: #1f77b4;
+  --secondary: #2a9d8f;
+  --text: #0f172a;
+  --muted: #556987;
+  --accent: #ff7f0e;
+}
+
+[data-testid="stAppViewContainer"] {
+  background: var(--bg);
+}
+
+[data-testid="stSidebar"] {
+  background: linear-gradient(180deg, #0d3b66 0%, #2a6f97 100%);
+  color: #ffffff;
+}
+
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] .stMarkdown,
+[data-testid="stSidebar"] .css-1d391kg {
+  color: #ffffff;
+}
+
+.block-container {
+  padding: 2rem 1.5rem;
+}
+
+.stButton > button {
+  background-color: var(--primary);
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding: 0.85rem 1.2rem;
+  font-size: 0.95rem;
+}
+
+.stButton > button:hover {
+  background-color: #155a8a;
+}
+
+.recommendation-card {
+  background: var(--card);
+  border-radius: 18px;
+  padding: 1.2rem;
+  box-shadow: 0 14px 28px rgba(15, 23, 42, 0.08);
+  margin-bottom: 1rem;
+}
+
+.recommendation-icon {
+  font-size: 1.6rem;
+  margin-bottom: 0.65rem;
+}
+
+.recommendation-title {
+  margin: 0;
+  color: var(--text);
+  font-size: 1.05rem;
+}
+
+.recommendation-desc {
+  margin-top: 0.5rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.metric-chart-container {
+  background: var(--card);
+  border-radius: 18px;
+  padding: 1rem;
+  box-shadow: 0 14px 28px rgba(15, 23, 42, 0.08);
+}
