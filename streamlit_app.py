@@ -4,7 +4,7 @@ from pathlib import Path
 import plotly.graph_objects as go
 import streamlit as st
 
-API_BASE_URL = "API_URL = "http://13.127.83.53:8000"
+API_BASE_URL = "http://13.127.83.53:8000"
 
 
 # -------------------------
