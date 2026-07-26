@@ -28,33 +28,33 @@ The solution delivers an intuitive web dashboard with interactive analytics, AI-
 
 # ✨ Key Features
 
-- 🤖 **AI-Powered Energy Optimization** using Groq Llama-3.3-70B to generate intelligent, context-aware building optimization strategies.
+-  **AI-Powered Energy Optimization** using Groq Llama-3.3-70B to generate intelligent, context-aware building optimization strategies.
 
-- 🏢 **EnergyPlus Simulation Analysis** for processing building energy simulation outputs and extracting meaningful performance indicators.
+-  **EnergyPlus Simulation Analysis** for processing building energy simulation outputs and extracting meaningful performance indicators.
 
-- ⚡ **Real-Time Optimization Engine** that evaluates building metrics and predicts high-impact energy improvement opportunities.
+-  **Real-Time Optimization Engine** that evaluates building metrics and predicts high-impact energy improvement opportunities.
 
-- 📊 **Interactive Analytics Dashboard** built with Streamlit featuring KPI cards, visual charts, and intuitive user interaction.
+-  **Interactive Analytics Dashboard** built with Streamlit featuring KPI cards, visual charts, and intuitive user interaction.
 
-- 📈 **Comprehensive Energy Insights** including electricity, heating, cooling, occupancy, and environmental performance analysis.
+-  **Comprehensive Energy Insights** including electricity, heating, cooling, occupancy, and environmental performance analysis.
 
-- 🌱 **Sustainability Assessment** through estimated CO₂ emission reduction and energy efficiency scoring.
+-  **Sustainability Assessment** through estimated CO₂ emission reduction and energy efficiency scoring.
 
-- 💰 **Estimated Energy Savings** with AI-driven prediction of potential operational cost reductions.
+-  **Estimated Energy Savings** with AI-driven prediction of potential operational cost reductions.
 
-- 🎯 **Priority-Based Recommendations** ranked according to expected impact and optimization potential.
+-  **Priority-Based Recommendations** ranked according to expected impact and optimization potential.
 
-- 🔗 **RESTful FastAPI Backend** enabling scalable communication between the frontend and AI optimization services.
+-  **RESTful FastAPI Backend** enabling scalable communication between the frontend and AI optimization services.
 
-- ☁️ **Cloud Deployment on AWS EC2** providing secure and scalable backend hosting with public API access.
+-  **Cloud Deployment on AWS EC2** providing secure and scalable backend hosting with public API access.
 
-- 🧠 **LLM-Driven Decision Support** that converts structured building metrics into human-readable optimization recommendations.
+-  **LLM-Driven Decision Support** that converts structured building metrics into human-readable optimization recommendations.
 
-- 📦 **Modular Architecture** separating presentation, API, optimization engine, and AI inference layers for maintainability and scalability.
+-  **Modular Architecture** separating presentation, API, optimization engine, and AI inference layers for maintainability and scalability.
 
-- 📱 **Responsive User Interface** designed for facility managers, energy auditors, and building operators.
+-  **Responsive User Interface** designed for facility managers, energy auditors, and building operators.
 
-- 🚀 **Extensible Design** allowing future integration with IoT sensors, Building Management Systems (BMS), Digital Twins, and predictive maintenance solutions.
+-  **Extensible Design** allowing future integration with IoT sensors, Building Management Systems (BMS), Digital Twins, and predictive maintenance solutions.
 
 
 ---
