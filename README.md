@@ -325,7 +325,8 @@ The Streamlit dashboard provides
 
 ## Dashboard
 
-<img src="docs/dashboard.png" width="900">
+<img width="2553" height="1356" alt="image" src="https://github.com/user-attachments/assets/01a4e3ce-781f-4b3d-a7d9-f44489514be3" />
+
 
 ---
 
