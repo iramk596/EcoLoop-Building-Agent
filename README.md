@@ -363,22 +363,18 @@ The Streamlit dashboard provides
 
 ---
 
-# 👨‍💻 Team
+#  Team
 
 Developed for the **Honeywell Hackathon**.
+Name - Iram Khan
+Registration no - 23BSA10150
+VIT Bhopal University
 
 ---
 
-# 📜 License
+#  License
 
 This project is intended for educational and hackathon purposes only.
 
 ---
 
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-```
-⭐ Star this repository if you like the project!
-```
