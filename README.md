@@ -16,9 +16,13 @@
 
 # 📖 Overview
 
-EcoLoop Building Agent is an AI-powered building energy optimization platform that combines **EnergyPlus building simulation**, **FastAPI**, **Groq LLM**, and **Streamlit** to provide intelligent recommendations for improving building energy efficiency.
+EcoLoop Building Agent is an AI-powered Building Energy Optimization Platform designed to help facility managers and building operators reduce energy consumption, operational costs, and carbon emissions through intelligent data-driven recommendations.
 
-The platform analyzes building performance metrics, predicts optimization opportunities, estimates energy savings and CO₂ reduction, and generates actionable recommendations using Large Language Models (LLMs).
+The platform combines **EnergyPlus building simulation**, **FastAPI**, **Groq Llama-3.3-70B**, and **Streamlit** to transform raw building performance metrics into actionable optimization insights. By analyzing key parameters such as electricity usage, HVAC consumption, occupancy, indoor and outdoor environmental conditions, the system identifies inefficiencies and generates personalized recommendations for improving overall building performance.
+
+Unlike conventional monitoring dashboards that only visualize energy usage, EcoLoop Building Agent leverages Large Language Models (LLMs) to perform contextual reasoning over building data, estimate potential energy savings, identify high-impact optimization areas, and recommend practical strategies that support sustainable and energy-efficient building management.
+
+The solution delivers an intuitive web dashboard with interactive analytics, AI-generated recommendations, estimated cost savings, CO₂ reduction metrics, and confidence scores, enabling users to make informed operational decisions in real time.
 
 ---
 
