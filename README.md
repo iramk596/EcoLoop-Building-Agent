@@ -255,6 +255,7 @@ GROQ_API_KEY=your_groq_api_key
 ```bash
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 ```
+<img width="2544" height="1440" alt="image" src="https://github.com/user-attachments/assets/2a050476-09bc-4228-95cc-261ae22c1ed5" />
 
 Swagger Documentation
 
@@ -269,6 +270,8 @@ http://localhost:8000/docs
 ```bash
 streamlit run streamlit_app.py
 ```
+
+<img width="2544" height="1438" alt="image" src="https://github.com/user-attachments/assets/b511c0de-b219-416e-9915-3c7ef7721c69" />
 
 ---
 
@@ -305,6 +308,8 @@ Response
 }
 ```
 
+<img width="2546" height="1352" alt="image" src="https://github.com/user-attachments/assets/51c3f413-fa3c-4cee-9abf-444ed475de97" />
+
 ---
 
 # 📊 Dashboard
@@ -332,13 +337,16 @@ The Streamlit dashboard provides
 
 ## Analytics
 
-<img src="docs/analytics.png" width="900">
+<img width="2556" height="1359" alt="image" src="https://github.com/user-attachments/assets/545c7a13-e99a-4ade-b6c5-f53c5c73d7c1" />
+
 
 ---
 
 ## AI Recommendations
 
-<img src="docs/recommendations.png" width="900">
+<img width="2553" height="1363" alt="image" src="https://github.com/user-attachments/assets/1f7ac712-55a9-42a7-98e3-5c60de13893d" />
+
+<img width="2556" height="1363" alt="image" src="https://github.com/user-attachments/assets/e93510d4-4e64-46d8-8e24-156334e5bf44" />
 
 ---
 
