@@ -95,6 +95,9 @@ The AI pipeline includes:
 
 ---
 
+<img width="932" height="500" alt="image" src="https://github.com/user-attachments/assets/edf514d6-619a-4640-9fa4-701065bd39b2" />
+
+
 # ☁️ AWS Deployment Architecture
 
 <p align="center">
@@ -130,6 +133,9 @@ Groq API
 ```
 
 ---
+
+<img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/c15b5b75-710e-411c-9543-f963c5bbca81" />
+
 
 # ⚙️ Technology Stack
 
