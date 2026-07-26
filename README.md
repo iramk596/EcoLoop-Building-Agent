@@ -72,6 +72,8 @@ The optimization workflow consists of:
 9. Dashboard visualizes KPIs and charts.
 
 ---
+<img width="896" height="1048" alt="image" src="https://github.com/user-attachments/assets/c9089c27-c90b-443d-996c-c9ab2192a2ec" />
+
 
 # 🧠 AI Recommendation Pipeline
 
