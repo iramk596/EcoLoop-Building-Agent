@@ -40,7 +40,8 @@ The platform analyzes building performance metrics, predicts optimization opport
 
 # 🏗️ System Architecture
 
-> Replace this image with your final architecture diagram.
+<img width="1366" height="1034" alt="image" src="https://github.com/user-attachments/assets/3aaef976-9878-4655-ad7d-5dc1fd6a1479" />
+
 
 <p align="center">
 
