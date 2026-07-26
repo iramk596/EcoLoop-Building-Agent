@@ -365,10 +365,10 @@ The Streamlit dashboard provides
 
 #  Team
 
-Developed for the **Honeywell Hackathon**.
-Name - Iram Khan
-Registration no - 23BSA10150
-VIT Bhopal University
+- Developed for the **Honeywell Hackathon**.
+- Name - Iram Khan
+- Registration no - 23BSA10150
+- VIT Bhopal University
 
 ---
 
