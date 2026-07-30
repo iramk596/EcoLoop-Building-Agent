@@ -14,14 +14,6 @@
 
 ---
 
-## Live Demo
-
-**Frontend:**  
-https://ecoloop-building-agent-dmjkhtthwejjzn4jt6hx5h.streamlit.app
-
-**Backend API (Swagger Documentation):**  
-http://13.127.83.53:8000/docs
-
 # 📖 Overview
 
 EcoLoop Building Agent is an AI-powered Building Energy Optimization Platform designed to help facility managers and building operators reduce energy consumption, operational costs, and carbon emissions through intelligent data-driven recommendations.
@@ -33,6 +25,14 @@ Unlike conventional monitoring dashboards that only visualize energy usage, EcoL
 The solution delivers an intuitive web dashboard with interactive analytics, AI-generated recommendations, estimated cost savings, CO₂ reduction metrics, and confidence scores, enabling users to make informed operational decisions in real time.
 
 ---
+
+## Live Demo
+
+**Frontend:**  
+https://ecoloop-building-agent-dmjkhtthwejjzn4jt6hx5h.streamlit.app
+
+**Backend API (Swagger Documentation):**  
+http://13.127.83.53:8000/docs
 
 # ✨ Key Features
 
