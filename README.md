@@ -375,7 +375,8 @@ The Streamlit dashboard provides
 
 - Developed for the **Honeywell Hackathon**.
 - Name - Iram Khan
-- Registration no - 23BSA10150
+- Candidate ID for future reference is: 20508789
+- College Registration no - 23BSA10150
 - VIT Bhopal University
 
 ---
